@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sanity">
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+        <!--<listener class-name="listeners.AnnotationTransformer"/>-->
+    </listeners>
+   <!--<test name="Registration">
+        <classes>
+            <class name="testcase.RegistrationTest"/>
+        </classes>
+    </test>-->
+    <test name="Login">
+        <classes>
+            <class name="testcase.LoginTest"/>
+        </classes>
+    </test>
+    <!-- <test name="Dashboard">
+         <classes>
+             <class name="testcase.DashboradTest"/>
+         </classes>
+     </test>
+    <test name="Account">
+         <classes>
+             <class name="testcase.AccountInfoTest"/>
+         </classes>
+     </test>-->
+</suite>
