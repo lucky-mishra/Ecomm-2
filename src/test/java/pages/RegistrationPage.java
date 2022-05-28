@@ -6,8 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.Asserssion;
-import utils.Log;
-import utils.PropertyReader;
+import reports.Log;
 import utils.Utility;
 
 import java.util.Random;

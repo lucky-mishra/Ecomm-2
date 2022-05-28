@@ -1,9 +1,8 @@
-package utils;
+package reports;
 
 import com.aventstack.extentreports.Status;
 import org.apache.log4j.Logger;
 import org.testng.ITestListener;
-import reports.ExtentTestManager;
 
 public class Log implements ITestListener {
 

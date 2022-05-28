@@ -5,9 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.Asserssion;
-import utils.Log;
-
-import java.util.List;
+import reports.Log;
 
 public class AccountInfoPage {
     private WebDriver driver;

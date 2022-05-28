@@ -11,7 +11,6 @@ import pages.LoginPage;
 import pages.RegistrationPage;
 import reports.ExtentTestManager;
 import utils.ExcelReader;
-import utils.Log;
 import utils.PropertyReader;
 
 import java.io.IOException;

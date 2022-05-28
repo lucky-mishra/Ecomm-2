@@ -2,10 +2,6 @@ package reports;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import utils.Log;
-import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.ExtentTest;
-import utils.Log;
 
 import java.util.HashMap;
 import java.util.Map;
